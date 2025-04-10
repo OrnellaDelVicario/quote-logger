@@ -3,3 +3,4 @@ public class Quotes {
         System.out.println("Zora Neale Hurston: \"There are years that ask questions and years that answer.\"");
     }
 }
+// My third quote
